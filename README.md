@@ -49,6 +49,11 @@
 
 4. You are now ready to use the REST API's of this application
 
+
+<img width="1246" alt="Screenshot 2024-03-04 at 6 11 00 PM" src="https://github.com/prudhvich957/FitnessConsultation/assets/53164767/da0c10f5-1e03-4f9c-93ab-96c7716ea7b0">
+
+
+
 ## Grails 6.0.0 Documentation
 
 - [User Guide](https://docs.grails.org/6.0.0/guide/index.html)
